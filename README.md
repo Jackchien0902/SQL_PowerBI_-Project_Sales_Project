@@ -51,7 +51,8 @@ Below is a screenshot of the data model after cleansed and prepared tables were 
 
 This data model also shows how FACT_Budget has been connected to FACT_InternetSales and other necessary DIM tables.
 
-<img width="631" alt="image" src="https://github.com/ECCO0220/SQL-PowerBi-Project_Sales_Analysis/assets/88352796/f4d757b9-b1d0-4373-b488-91c579f344c5">
+![image](https://github.com/Jackchien0902/SQL_PowerBI_-Project_Sales_Project/assets/157054789/0f02a909-07e8-4981-9633-3b5a45467b7a)
+
 
 2.Sales Management Dashboard
 
@@ -59,8 +60,6 @@ The finished sales management dashboard with one page with works as a dashboard 
 
 https://app.powerbi.com/view?r=eyJrIjoiZTZjM2VlZTktZGZkNi00ZjlhLWJkYjEtNGE0OWM4MThmNjZiIiwidCI6ImVlNmNiZGYzLTkyM2EtNGYzMi1hMzYyLTJjNDlkOTU5OTQ5ZiJ9
 
-<img width="719" alt="image" src="https://github.com/ECCO0220/SQL-PowerBi-Project_Sales_Analysis/assets/88352796/48fa1e30-c716-407d-9c72-735fbf0a5768">
-
-<img width="722" alt="image" src="https://github.com/ECCO0220/SQL-PowerBi-Project_Sales_Analysis/assets/88352796/32525549-f815-454d-8c83-44b32bd2cbfd">
-
-<img width="722" alt="image" src="https://github.com/ECCO0220/SQL-PowerBi-Project_Sales_Analysis/assets/88352796/5896e783-32dc-412e-91fe-86cf58987613">
+![Customer Details](https://github.com/Jackchien0902/SQL_PowerBI_-Project_Sales_Project/assets/157054789/816dc69f-301b-4e26-a115-b2defb813512)
+![Product Details](https://github.com/Jackchien0902/SQL_PowerBI_-Project_Sales_Project/assets/157054789/97a7f321-40f6-4277-8ea0-e19edf1f75bd)
+![Sales Overview](https://github.com/Jackchien0902/SQL_PowerBI_-Project_Sales_Project/assets/157054789/f1779897-e18c-4418-b0b6-9fc64a471a3a)
