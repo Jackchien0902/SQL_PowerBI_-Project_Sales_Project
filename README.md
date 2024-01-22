@@ -25,3 +25,13 @@ No #	As a (role)	I want (request / demand)	So that I (user value)	Acceptance Cri
 4）Technologies:
 
 SQL Server, SQL Server Managemet Studio and Power Bi
+
+5）Dataset:
+
+https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorksDW2022.bak
+
+https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorksLT2022.bak
+
+https://github.com/techtalkcorner/SampleDemoFiles/blob/master/Database/AdventureWorks/Update_AdventureWorksDW_Data.sql
+
+https://github.com/Jackchien0902/SQL_PowerBI_-Project_Sales_Project/blob/main/Sales%20Budget.xlsx
